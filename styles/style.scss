@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style-type: none;
+  background-color: teal;
+  color: white;
+}
+.container {
+  height: 70vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.button {
+  border-radius: 5px;
+  background-color: bisque;
+  color: black;
+}
+.item {
+  font-size: 70px;
+  margin-bottom: 100px;
+}
